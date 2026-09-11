@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=root%40mustafa-329%3A~%24+whoami;Computer+Software+Engineering+%2F+Cyber+Security;root%40mustafa-329%3A~%24+cat+skills.txt;C+%7C+C%2B%2B+%7C+Python+%7C+React+%7C+SQL+%7C+AWS+%7C+Flutter+%7C+JS+%7C+Bash;root%40mustafa-329%3A~%24+status+--check;Open+to+work+%E2%9C%93" alt="Typing SVG" />
 </a>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=briefcase&logoColor=white)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mustafa-329&color=22c55e&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/mustafa-329?label=Followers&style=flat-square&color=22c55e)
 
@@ -24,13 +22,6 @@
   > Deploying on AWS, breaking things to learn how they hold up
   > Status: online_and_open_to_work
 ```
-
-<div align="center">
-
-<img src="./assets/matrix-portrait.png" width="280" alt="Muhammad Mustafa - matrix style portrait"/>
-
-</div>
-
 ---
 
 ## 🧑‍💻 Who I Am
@@ -58,10 +49,6 @@ My clone repository.
 | Environment | GitHub Codespaces |
 | Editor | VS Code |
 | Assistant | GitHub Copilot |
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mustafa-329&repo=skills-copilot-codespaces-vscode&theme=nord&border_color=22c55e&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&bg_color=0d1117)](https://github.com/mustafa-329/skills-copilot-codespaces-vscode)
-
-🔗 **Code:** [github.com/mustafa-329/skills-copilot-codespaces-vscode](https://github.com/mustafa-329/skills-copilot-codespaces-vscode)
 
 ---
 
