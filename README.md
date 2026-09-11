@@ -25,6 +25,12 @@
   > Status: online_and_open_to_work
 ```
 
+<div align="center">
+
+<img src="./assets/matrix-portrait.png" width="280" alt="Muhammad Mustafa - matrix style portrait"/>
+
+</div>
+
 ---
 
 ## 🧑‍💻 Who I Am
