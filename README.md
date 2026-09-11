@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=220&section=header&text=Muhammad%20Mustafa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Software%20Engineering%20%2F%20Cyber%20Security&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/mustafa-329">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=root%40mustafa-329%3A~%24+whoami;Computer+Software+Engineering+%2F+Cyber+Security;root%40mustafa-329%3A~%24+cat+skills.txt;C+%7C+C%2B%2B+%7C+Python+%7C+React+%7C+SQL+%7C+AWS+%7C+Flutter+%7C+JS+%7C+Bash;root%40mustafa-329%3A~%24+status+--check;Open+to+work+%E2%9C%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=root%40mustafa-329%3A~%24+whoami;Computer+Software+Engineering+%2F+Cyber+Security;root%40mustafa-329%3A~%24+cat+skills.txt;C+%7C+C%2B%2B+%7C+Python+%7C+React+%7C+SQL+%7C+AWS+%7C+Flutter+%7C+JS+%7C+Bash;root%40mustafa-329%3A~%24+status+--check;COFFEE+%E2%9C%93" alt="Typing SVG" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mustafa-329&color=22c55e&style=flat-square&label=Profile+Views)
