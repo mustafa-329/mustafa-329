@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=220&section=header&text=Muhammad%20Mustafa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Software%20Engineering%20%2F%20Cyber%20Security&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/mustafa-329">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Computer+Software+Engineering+%2F+Cyber+Security;Building+with+C%2C+C%2B%2B+%26+Python;React+%2B+Flutter+for+the+front+end;Exploring+AWS+and+Cloud+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=root%40mustafa-329%3A~%24+whoami;Computer+Software+Engineering+%2F+Cyber+Security;root%40mustafa-329%3A~%24+cat+skills.txt;C+%7C+C%2B%2B+%7C+Python+%7C+React+%7C+SQL+%7C+AWS+%7C+Flutter+%7C+JS+%7C+Bash;root%40mustafa-329%3A~%24+status+--check;Open+to+work+%E2%9C%93" alt="Typing SVG" />
 </a>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=briefcase&logoColor=white)
@@ -12,6 +12,18 @@
 ![Followers](https://img.shields.io/github/followers/mustafa-329?label=Followers&style=flat-square&color=22c55e)
 
 </div>
+
+---
+
+```bash
+┌──(mustafa㉿mustafa-329)-[~]
+└─$ cat about.txt
+
+  > Computer Software Engineering / Cyber Security
+  > Building things in C, C++, Python, React & Flutter
+  > Deploying on AWS, breaking things to learn how they hold up
+  > Status: online_and_open_to_work
+```
 
 ---
 
@@ -64,6 +76,19 @@ My clone repository.
 **AI / Database**
 
 ![SQL](https://img.shields.io/badge/SQL-22c55e?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Dev Tools**
+
+![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=dark)
+
+**Security Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-22c55e?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-22c55e?style=for-the-badge&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-22c55e?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-22c55e?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-22c55e?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-22c55e?style=for-the-badge&logoColor=white)
 
 ---
 
